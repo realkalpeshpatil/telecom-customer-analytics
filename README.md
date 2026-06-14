@@ -142,6 +142,7 @@ telecom-customer-analytics
 ├── .gitignore
 ├── LICENSE
 ├── README.md
+├── Telecom_Churn_Analytics_Report.pdf
 ├── Telecom_Customer_Analytics.ipynb
 │
 └── requirements.txt
