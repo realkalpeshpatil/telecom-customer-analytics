@@ -129,20 +129,22 @@ Model evaluation included:
 # Project Structure
 
 ```text
-telecom-customer-analytics/
-│
-├── Telco_Churn_Analytics_Project.ipynb
+telecom-customer-analytics
 │
 ├── images/
 │   ├── 01_initial_exploration.png
-│   ├── 02_feature_engineering.png
-│   ├── 03_churn_analysis.png
+│   ├── 02_churn_analysis.png
+│   ├── 03_cltv_analysis.png
 │   ├── 04_feature_importance.png
-│   └── 05_customer_segmentation.png
+│   ├── 05_customer_segmentation.png
+│   └── 06_EXECUTIVE_DASHBOARD.png
 │
+├── .gitignore
+├── LICENSE
 ├── README.md
 ├── requirements.txt
-└── LICENSE
+│
+└── Telecom_Customer_Analytics.ipynb
 ```
 
 ---
@@ -212,13 +214,13 @@ Based on the analysis:
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/Telco_Churn_Analytics_Project.git
+git clone https://github.com/your-username/telcom-customer-analytics.git
 ```
 
 ### Open Notebook
 
 ```bash
-Telco_Churn_Analytics_Project.ipynb
+Telecom_Customer_Analytics.ipynb
 ```
 
 ### Install Dependencies
