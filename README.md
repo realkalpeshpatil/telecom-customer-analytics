@@ -142,9 +142,9 @@ telecom-customer-analytics
 ├── .gitignore
 ├── LICENSE
 ├── README.md
-├── requirements.txt
+├── Telecom_Customer_Analytics.ipynb
 │
-└── Telecom_Customer_Analytics.ipynb
+└── requirements.txt
 ```
 
 ---
