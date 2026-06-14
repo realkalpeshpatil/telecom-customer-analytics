@@ -1,4 +1,4 @@
-# 📡 Telecom Customer Churn Analytics
+# Telecom Customer Churn Analytics
 
 > **End-to-End Customer Analytics & Churn Prediction Solution**
 > Exploratory Data Analysis · Customer Segmentation · Machine Learning · CLTV Analysis · Business Intelligence
